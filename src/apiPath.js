@@ -1,0 +1,1 @@
+export const GET_MOVIES_API_PATH = 'http://www.omdbapi.com/?s=Batman&page=2&apikey=5d93a1ca'
